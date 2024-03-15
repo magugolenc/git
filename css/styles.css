@@ -1,0 +1,12 @@
+img{
+    width: 50px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bolder;
+}
+*{
+    color: cadetblue;
+    background-color: aliceblue;
+}
